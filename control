@@ -1,0 +1,9 @@
+Package: dev.c0b.hacktool
+Name: HackTool
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: A cool app to wrap your favourite hacking tools in a neat GUI
+Maintainer: JacobC1921
+Author: JacobC1921
+Section: Utilities
+Depends: firmware (>= 14.0)
